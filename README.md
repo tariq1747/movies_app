@@ -96,13 +96,6 @@ dependencies:
 - **UI Components**: Custom widgets with optimized rendering and caching
 - **Data Flow**: Repository pattern for clean separation of concerns
 
-## Performance Optimizations
-
-- Image caching for faster loading
-- Dominant color extraction with caching mechanism
-- Lazy loading of movie details
-- Network connectivity monitoring
-- Efficient state management to minimize rebuilds
 
 ## Error Handling
 
@@ -111,13 +104,7 @@ dependencies:
 - User-friendly error messages
 - Offline support with proper user feedback
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## License
 
